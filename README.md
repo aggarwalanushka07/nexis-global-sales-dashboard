@@ -16,4 +16,4 @@ This dashboard uses sales data for Nexis Global, a fictional company selling Off
 - Visualized revenue, profit, units sold and top/bottom performing products across time, segment and category
 
 ## Tools Used
-Power BI Desktop, Data Cleaning
+Power BI Desktop, Data Cleaning, Conditional Formatting
